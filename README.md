@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick AND simple.
-try --no-ff merge mode
+try to use --no-ff merge mode
